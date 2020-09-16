@@ -57,4 +57,4 @@ ExportedObj/
 
 # Crashlytics generated file
 **/crashlytics-build.properties
-
+**/debug.log
