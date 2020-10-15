@@ -23,9 +23,9 @@ void loop()
      for(i=0;i<100;i++)
       {
         digitalWrite(buzzer,HIGH);
-        delay(2);//wait for 2ms
+        delay(5);//wait for 2ms
         digitalWrite(buzzer,LOW);
-        delay(2);//wait for 2ms
+        delay(5);//wait for 2ms
       }
   }
 } 
